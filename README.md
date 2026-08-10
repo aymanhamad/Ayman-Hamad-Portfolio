@@ -1,2 +1,2 @@
-# Ayman-Hamad-Portfolio-
-# This is my work portfolio repository.
+# Ayman-Hamad-Portfolio
+This is my work portfolio repository.
