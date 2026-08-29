@@ -1,6 +1,6 @@
 # Ayman Hamad Portfolio
 
-Hi, I'm Ayman Hamad. As a specialized English ↔ Arabic technical writer/translator, I work with organizations that operate at the intersection of technology and sustainability—transforming highly technical content into clear, structured, and accessible documentation for diverse audiences.
+Hi, I'm Ayman Hamad. As a specialized English ↔ Arabic technical writer/translator (with a strong background in Engineering), I work with organizations that operate at the intersection of technology and sustainability—transforming highly technical content into clear, structured, and accessible documentation for diverse audiences.
   
 I focus on high-value content, including:
   
@@ -13,4 +13,4 @@ I combine subject-matter understanding in energy systems, sustainability, and so
 
 Samples of my work are above.
 
-I can be reached on ayman.hamad@gmail.com
+Need a technical translation but not sure where to start? I offer a free 200-word test translation for new clients. Contact me at ayman.hamad@gmail.com and I'll send it within 24 hours.
